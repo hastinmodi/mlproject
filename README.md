@@ -1,0 +1,1 @@
+# End to end machine learning project based on Krish Nak's playlist (<https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG>)
